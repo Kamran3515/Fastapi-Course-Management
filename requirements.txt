@@ -1,0 +1,10 @@
+fastapi[standard]
+sqlalchemy
+alembic
+python-jose
+passlib[bcrypt]
+python-multipart
+psycopg2-binary
+pydantic
+pydantic-settings>=1.0
+pytest
